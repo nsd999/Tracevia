@@ -1,0 +1,29 @@
+:root {
+  /* Primary Color Palette */
+  --primary-color: #3498db;
+  --primary-hover: #2980b9;
+  --primary-light: #5dade2;
+  
+  /* Secondary Color Palette */
+  --secondary-color: #2c3e50;
+  --secondary-light: #34495e;
+  
+  /* Neutral Colors */
+  --background-color: #f8f9fa;
+  --surface-color: #ffffff;
+  --border-color: #e0e0e0;
+  --text-primary: #2c3e50;
+  --text-secondary: #7f8c8d;
+  --text-muted: #95a5a6;
+  
+  /* Accent Colors */
+  --success-color: #27ae60;
+  --warning-color: #f39c12;
+  --error-color: #e74c3c;
+  --info-color: #3498db;
+  
+  /* Shadow Colors */
+  --shadow-light: rgba(0, 0, 0, 0.1);
+  --shadow-medium: rgba(0, 0, 0, 0.15);
+  --shadow-dark: rgba(0, 0, 0, 0.2);
+}
